@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🎓 **Computer Science Student** at Karnavati University
-- 🤖 **AI & Machine Learning Enthusiast**
+- 🤖 **AI & Machine Learning Enthusiast** | Focusing on Learning New things
 - 💻 Currently building projects with **MERN Stack** and **Generative AI**
 - 📍 Based in Gandhinagar, Gujarat, India
 
@@ -14,27 +14,29 @@
 
 ### 🛠️ My Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekbambhaniya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbambhaniya&layout=compact&theme=tokyonight" />
-</p>
+### 🎯 Current Focus
+- 🔭 **Learning:** Advanced Neural Networks and LLM Orchestration.
+- 🏗️ **Building:** Full-stack generative AI applications and AI website builders.
+- ⚡ **Goal:** To bridge the gap between AI research and real-world web applications.
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/vivekbambhaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekbambhaniya" height="30" width="40" /></a>
-<a href="https://github.com/vivekbambhaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vivekbambhaniya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivekbambhaniya" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:your-email@example.com" target="blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/vivekbambhaniya/vivekbambhaniya/output/github-contribution-grid-snake.svg" alt="snake" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
+</p>
